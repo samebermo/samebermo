@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<pre>
+  👯 Always open to collaborations on Multimodal and Interdisciplinary research topics.
+🔭 I'm learning EVERYTHING about this universe.
+💬 You can ask me ANYTHING as long as I know.
+📫 Feel free to Email Me!
+😄 Fun fact: The Three-Body is my favorite novel and Sherlock is my favorite TV series. That's where my GitHub avatar and username come from.
+</pre>
+<img src="https://github.com/Eurus-Holmes/Eurus-Holmes/raw/master/dino.gif" />
+
 <!--
 **samebermo/samebermo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
